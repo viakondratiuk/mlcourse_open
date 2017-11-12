@@ -3,7 +3,7 @@
 
 :exclamation: Новая сессия стартовала 6 сентября 2017 г. [Тут](https://goo.gl/cJbw7V) подробное описание активностей в течение курса. А [вот](https://calendar.google.com/calendar/ical/p56i6ec9s7nrvcjq4807sfr8co%40group.calendar.google.com/public/basic.ics) и календарь дедлайнов :exclamation:
 
-[Статья](https://habrahabr.ru/company/ods/blog/334960/) про курс на Хабре. [Youtube-канал](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg) c онлайн-трансляциями и записями лекций.
+[Статья](https://habrahabr.ru/company/ods/blog/334960/) про курс на Хабре. [Youtube-канал](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl) c онлайн-трансляциями и записями лекций.
 Курс обсуждается в Slack OpenDataScience в канале mlcourse_open. [Заявка](http://ods.ai/) на вступление.
 
 В статьях курса даются теоретические основы машинного обучения. Навыки практического анализа данных и построения прогнозных моделей можно получить через выполнение домашних заданий и индивидуального проекта, а также за счет участия в 2 соревнованиях по анализу данных.
@@ -31,12 +31,13 @@
 6. [Регрессия, регуляризация](https://www.youtube.com/watch?v=c_EsDMF3rsI)
 7. [Обучение без учителя](https://www.youtube.com/watch?v=qmW968tw3AM)
 8. [Признаки, SGD, Vowpal Wabbit](https://www.youtube.com/watch?v=MnLc7xKSAsk)
-9. [Временные ряды](https://www.youtube.com/watch?v=-iwjtvTxoVU)
+9. [Временные ряды](https://youtu.be/nQjul-5_0_M)
+10. [Градиентный бустинг](https://youtu.be/x5Bz9ChD7N0)
 
 ### Беседы с гуру Data Science
-10. [Александр Дьяконов](https://www.youtube.com/watch?v=qV3yjIyj7Dc)
-11. [Константин Воронцов](https://youtu.be/DR3mgnEKRgI)
-12. [Евгений Соколов](https://youtu.be/Dmkx6KGrjx8)
+11. [Александр Дьяконов](https://www.youtube.com/watch?v=qV3yjIyj7Dc)
+12. [Константин Воронцов](https://youtu.be/DR3mgnEKRgI)
+13. [Евгений Соколов](https://youtu.be/Dmkx6KGrjx8)
 
 ## Домашние задания
 1. Анализ данных по сердечно-сосудистым заболеваниям (ML Boot Camp V). [ipynb](https://goo.gl/LffyJd)
@@ -47,7 +48,7 @@
 6. Исследование признаков на примере поездок такси в Чикаго. [ipynb](https://goo.gl/2s3osC)
 7. Обучение без учителя. [ipynb](https://goo.gl/Yk25mx)
 8. Vowpal Wabbit в задаче прогнозирования популярности статьи на Хабре. [ipynb](https://goo.gl/JfRRjz)
-9. Временные ряды. Дедлайн: 10 ноября 23:59 UTC +3. [ipynb](https://goo.gl/NBfg9v)
+9. Временные ряды. [ipynb](https://goo.gl/NBfg9v)
 10. Прогнозирование задержек вылетов. Дедлайн: 14 ноября 23:59 UTC +3. [ipynb](https://goo.gl/rjZUKx)
 
 ## Соревнования
